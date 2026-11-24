@@ -1,0 +1,9 @@
+.env
+*.env
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.mp3
+*.wav
+.DS_Store
