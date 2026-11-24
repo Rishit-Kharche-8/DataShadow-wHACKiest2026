@@ -1,0 +1,15 @@
+date,user_name,email,gps_city,bedtime_exact,screen_peak_time,sleep_hours,late_screen_mins,steps,focus_score
+2026-11-10,Riya Sharma,riya.s@campus.edu,Bengaluru,00:20,22:30,7.2,35,8400,8
+2026-11-11,Riya Sharma,riya.s@campus.edu,Bengaluru,00:15,22:25,7.4,30,8100,8
+2026-11-12,Riya Sharma,riya.s@campus.edu,Bengaluru,01:45,23:40,5.3,115,3400,4
+2026-11-13,Riya Sharma,riya.s@campus.edu,Bengaluru,01:55,23:50,5.1,125,3100,3
+2026-11-14,Riya Sharma,riya.s@campus.edu,Bengaluru,00:10,22:15,7.6,25,9200,9
+2026-11-15,Riya Sharma,riya.s@campus.edu,Bengaluru,00:25,22:35,7.3,40,8700,8
+2026-11-16,Riya Sharma,riya.s@campus.edu,Bengaluru,00:45,22:50,6.7,60,6800,7
+2026-11-17,Riya Sharma,riya.s@campus.edu,Bengaluru,01:40,23:35,5.4,110,3600,4
+2026-11-18,Riya Sharma,riya.s@campus.edu,Bengaluru,02:05,00:10,4.9,135,2700,3
+2026-11-19,Riya Sharma,riya.s@campus.edu,Bengaluru,01:10,23:05,6.1,85,5200,5
+2026-11-20,Riya Sharma,riya.s@campus.edu,Bengaluru,00:15,22:20,7.5,30,8500,8
+2026-11-21,Riya Sharma,riya.s@campus.edu,Bengaluru,00:05,22:10,7.8,20,9400,9
+2026-11-22,Riya Sharma,riya.s@campus.edu,Bengaluru,01:50,23:45,5.2,120,3200,3
+2026-11-23,Riya Sharma,riya.s@campus.edu,Bengaluru,01:35,23:30,5.5,105,3900,4
